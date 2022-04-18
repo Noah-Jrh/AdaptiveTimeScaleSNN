@@ -1,1 +1,1 @@
-# AdaptiveTimeScaleSNN-
+# AdaptiveTimeScaleSNN
